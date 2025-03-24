@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--
-  Copyright (C) 2023 The LineageOS Project
-
-  SPDX-License-Identifier: Apache-2.0
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
 -->
 
 <!-- These resources are around just to allow their values to be customized
